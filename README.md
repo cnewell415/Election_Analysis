@@ -12,18 +12,23 @@ The winner of the election based on popular vote]
 ## Election-Audit Results
 [Use bulleted list]
 * How many votes were cast in this congressional election?
+
     ![Total Votes Casts](/total_votes.png)
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
     ![County Breakdown](/county_data.png)
 
 * Which county had the largest number of votes?
+
     ![County with Most Votes](/largest_county.png)
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-    ![Candidate Breakdown](/cabdidate_data.png)
+
+    ![Candidate Breakdown](/candidate_data.png)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
     ![Winning Candidate](/winner_data.png)
 
 
