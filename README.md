@@ -1,4 +1,4 @@
-# PyPoll with Python - Written Analysis
+# PyPoll with Python
 
 ## Overview of Election Audit
 The purpose of our analysis is to assist a Colorado Board of Elections employee on his audit of a congrassional district. We will create a phyton script to provide the desired tabulation and calculations based on the given dataset. 
@@ -39,3 +39,6 @@ Give two examples
 # Example 1
 
 # Example 2
+
+## Author
+> Chris Newell 12/12/2021
